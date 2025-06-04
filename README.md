@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bclz19
-- 👀 I’m interested in web, robotics, deep learning, computer vision ...
+- 👀 I’m interested in robotics, computer vision. Nowadays, I focused on using reforcement learning to solve ornithopter navigation problems.
 - 🌱 I’m currently learning robotics in ZJU
-- 📫 How to reach me chen.fang@zju.edu.cn
+- 📫 Reach me chen.fang@zju.edu.cn
 - welcome visit zju-robotics.cn
 
 
